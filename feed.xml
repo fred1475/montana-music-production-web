@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Noticias Montana | Montana Music Production</title>
+  <link>https://montanamusicproduction.com/noticias.html</link>
+  <description>Noticias oficiales de música, tienda y proyectos creativos de Montana Music Production LLC.</description>
+  <language>es-US</language>
+  <copyright>Montana Music Production LLC</copyright>
+  <lastBuildDate>Thu, 29 Oct 2026 22:00:00 -0500</lastBuildDate>
+  <atom:link href="https://montanamusicproduction.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nace Noticias Montana: un espacio oficial para nuestro movimiento</title>
+    <link>https://montanamusicproduction.com/noticias/bienvenida.html</link>
+    <guid isPermaLink="true">https://montanamusicproduction.com/noticias/bienvenida.html</guid>
+    <description>Conoce el nuevo espacio oficial de noticias de Montana Music Production.</description>
+    <category>La compañía</category>
+    <pubDate>Thu, 29 Oct 2026 22:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Montana Official Store: apertura anunciada para el 1 de noviembre</title>
+    <link>https://montanamusicproduction.com/noticias/tienda.html</link>
+    <guid isPermaLink="true">https://montanamusicproduction.com/noticias/tienda.html</guid>
+    <description>Actualización sobre la gran apertura anunciada de la tienda oficial de Montana.</description>
+    <category>Tienda oficial</category>
+    <pubDate>Thu, 29 Oct 2026 22:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Montana AI Studio 2.0 continúa en desarrollo</title>
+    <link>https://montanamusicproduction.com/noticias/studio.html</link>
+    <guid isPermaLink="true">https://montanamusicproduction.com/noticias/studio.html</guid>
+    <description>Avances del proyecto de plataforma musical y creativa Montana AI Studio 2.0.</description>
+    <category>Tecnología musical</category>
+    <pubDate>Thu, 29 Oct 2026 22:00:00 -0500</pubDate>
+  </item>
+</channel>
+</rss>
