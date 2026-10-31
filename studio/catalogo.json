@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-30",
+  "brand": "Montana Creative Digital Studio",
+  "count": 11,
+  "usage": "Muestras de trabajos y conceptos, no productos a la venta",
+  "status": "Preparado para incorporación al catálogo en vivo; publicación no verificada",
+  "items": [
+    {
+      "slug": "facebook-cinematografico",
+      "title": "Identidad empresarial · Facebook",
+      "category": "Banners",
+      "type": "Portada corporativa",
+      "caption": "Composición cinematográfica en negro y oro; estudio, bandera de Puerto Rico y presencia de marca.",
+      "featured": true,
+      "platform": "Facebook",
+      "dimensions": [
+        2056,
+        765
+      ],
+      "source_filename": "a_wide_cinematic_high_end_photorealistic_digita.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/facebook-cinematografico.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/facebook-cinematografico.webp"
+    },
+    {
+      "slug": "youtube-estudio",
+      "title": "Canal audiovisual · YouTube",
+      "category": "Banners",
+      "type": "Banner conceptual",
+      "caption": "Estudio de grabación de alta gama, equipamiento y narrativa visual para estrenos.",
+      "featured": true,
+      "platform": "YouTube",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "source_filename": "wide_cinematic_studio_brand_banner_scene_dark_lux_1_batch_1.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/youtube-estudio.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/youtube-estudio.webp"
+    },
+    {
+      "slug": "x-banner-oficial",
+      "title": "Banner oficial · X",
+      "category": "Banners",
+      "type": "Identidad aplicada",
+      "caption": "Adaptación panorámica de la identidad oficial para una red social.",
+      "featured": false,
+      "platform": "X",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "source_filename": "Montana_X_Banner_Oficial_1500x500.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/x-banner-oficial.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/x-banner-oficial.webp"
+    },
+    {
+      "slug": "instagram-campana",
+      "title": "Campaña visual · Instagram",
+      "category": "Redes",
+      "type": "Arte editorial",
+      "caption": "Dirección artística para contenido musical, creatividad y cultura puertorriqueña.",
+      "featured": false,
+      "platform": "Instagram",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "source_filename": "a_cinematic_ultra_detailed_high_end_promotional_2_batch_2.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/instagram-campana.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/instagram-campana.webp"
+    },
+    {
+      "slug": "tiktok-contenido",
+      "title": "Producción de contenido · TikTok",
+      "category": "Redes",
+      "type": "Arte vertical",
+      "caption": "Producción multimedia, dispositivos de grabación, luces y composición de formato vertical.",
+      "featured": true,
+      "platform": "TikTok",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "source_filename": "a_dramatic_ultra_stylized_neon_lit_music_studio_p_3_batch_3.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/tiktok-contenido.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/tiktok-contenido.webp"
+    },
+    {
+      "slug": "threads-comunidad",
+      "title": "Comunidad creativa · Threads",
+      "category": "Redes",
+      "type": "Arte vertical",
+      "caption": "Comunicación visual en tonos oro, negro y luz ambiental para comunidad de marca.",
+      "featured": false,
+      "platform": "Threads",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "source_filename": "a_cinematic_ultra_detailed_moody_studio_branding_5_batch_5.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/threads-comunidad.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/threads-comunidad.webp"
+    },
+    {
+      "slug": "linkedin-corporativo",
+      "title": "Presentación corporativa · LinkedIn",
+      "category": "Identidad",
+      "type": "Banner institucional",
+      "caption": "Identidad ejecutiva y servicios de estrategia digital, producción musical y desarrollo web.",
+      "featured": true,
+      "platform": "LinkedIn",
+      "dimensions": [
+        2508,
+        627
+      ],
+      "source_filename": "a_wide_cinematic_ultra_detailed_studio_office_int_4_batch_4.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/linkedin-corporativo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/linkedin-corporativo.webp"
+    },
+    {
+      "slug": "puerto-rico-al-mundo",
+      "title": "De Puerto Rico pa’l mundo",
+      "category": "Identidad",
+      "type": "Identidad audiovisual",
+      "caption": "Universo visual de estudio, ciudad, cultura puertorriqueña y marca.",
+      "featured": false,
+      "platform": "Marca",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "source_filename": "Montana Music Production: Puerto Rico to the World_2.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/puerto-rico-al-mundo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/puerto-rico-al-mundo.webp"
+    },
+    {
+      "slug": "coleccion-multiplataforma",
+      "title": "Sistema visual multiplataforma",
+      "category": "Identidad",
+      "type": "Concepto de identidad",
+      "caption": "Estudio de cinco composiciones para Facebook, YouTube, Instagram, TikTok y LinkedIn.",
+      "featured": false,
+      "platform": "Branding",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "source_filename": "montana_music_production_banner_collection.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/coleccion-multiplataforma.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/coleccion-multiplataforma.webp"
+    },
+    {
+      "slug": "modelo-editorial-demo",
+      "title": "Campaña con modelo ilustrativo",
+      "category": "Conceptos",
+      "type": "Demostración de diseño",
+      "caption": "Propuesta de campaña con modelo ilustrativo generado; no identifica al fundador de la empresa.",
+      "featured": false,
+      "platform": "Campaña conceptual",
+      "dimensions": [
+        1983,
+        793
+      ],
+      "source_filename": "montana_music_production_social_media_mosaic.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/modelo-editorial-demo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/modelo-editorial-demo.webp"
+    },
+    {
+      "slug": "evolucion-cine",
+      "title": "La evolución · Cartel conceptual",
+      "category": "Cine",
+      "type": "Póster de desarrollo",
+      "caption": "Exploración de cartel cinematográfico y narrativa visual; no es arte definitivo de la producción.",
+      "featured": false,
+      "platform": "Cine",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "source_filename": "La Evolución: De Freddy a Einstein.webp",
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/evolucion-cine.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/evolucion-cine.webp"
+    }
+  ]
+}
