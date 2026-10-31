@@ -9,3 +9,14 @@ a:focus-visible,button:focus-visible,select:focus-visible,textarea:focus-visible
 #estado-solicitud:not(:empty){padding:12px 16px;border-left:3px solid var(--gold);background:#171a1f}
 .work-card[hidden]{display:none!important}
 @media(max-width:700px){html{scroll-padding-top:88px}section[id]{scroll-margin-top:88px}#solicitud-estudio .btn{max-width:100%;min-height:48px;white-space:normal;text-align:center}}
+
+/* BBB accreditation: use the same official dynamic seal as the Montana main site. */
+.bbb-studio{background:linear-gradient(95deg,#0b1317,#18232a 55%,#0d1115);border-top:1px solid #2e4653;border-bottom:1px solid #2e4653;padding:22px 0}
+.bbb-studio-inner{display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap}
+.bbb-studio-inner img{display:block;width:250px;max-width:100%;height:auto}
+.bbb-studio-inner>div{flex:1 1 260px;max-width:510px}
+.bbb-studio-inner strong{font-size:16px;color:#f5f0e7}
+.bbb-studio-inner p{font-size:13px;line-height:1.55;color:#becdd3;margin:5px 0 0}
+.bbb-studio-link{display:inline-block;border:1px solid #829da9;padding:10px 14px;text-decoration:none;font-size:12px;font-weight:bold;white-space:nowrap}
+.bbb-studio a:focus-visible{outline:3px solid #f4d594;outline-offset:4px}
+@media(max-width:700px){.bbb-studio-inner{text-align:center;flex-direction:column;gap:14px}.bbb-studio-inner>div{flex:auto}.bbb-studio-link{white-space:normal}}
