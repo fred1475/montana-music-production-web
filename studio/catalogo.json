@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "brand": "Montana Creative Digital Studio",
   "count": 11,
-  "usage": "Muestras de trabajos y conceptos, no productos a la venta",
-  "status": "Preparado para incorporación al catálogo en vivo; publicación no verificada",
+  "usage": "Muestras públicas con marca de agua; diseños contratados limpios solo tras pago confirmado",
+  "status": "11 vistas previas protegidas y publicadas",
   "items": [
     {
       "slug": "facebook-cinematografico",
@@ -18,8 +18,10 @@
         765
       ],
       "source_filename": "a_wide_cinematic_high_end_photorealistic_digita.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/facebook-cinematografico.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/facebook-cinematografico.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/facebook-cinematografico.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/facebook-cinematografico.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "youtube-estudio",
@@ -34,8 +36,10 @@
         941
       ],
       "source_filename": "wide_cinematic_studio_brand_banner_scene_dark_lux_1_batch_1.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/youtube-estudio.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/youtube-estudio.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/youtube-estudio.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/youtube-estudio.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "x-banner-oficial",
@@ -50,8 +54,10 @@
         500
       ],
       "source_filename": "Montana_X_Banner_Oficial_1500x500.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/x-banner-oficial.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/x-banner-oficial.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/x-banner-oficial.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/x-banner-oficial.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "instagram-campana",
@@ -66,8 +72,10 @@
         1402
       ],
       "source_filename": "a_cinematic_ultra_detailed_high_end_promotional_2_batch_2.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/instagram-campana.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/instagram-campana.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/instagram-campana.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/instagram-campana.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "tiktok-contenido",
@@ -82,8 +90,10 @@
         1672
       ],
       "source_filename": "a_dramatic_ultra_stylized_neon_lit_music_studio_p_3_batch_3.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/tiktok-contenido.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/tiktok-contenido.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/tiktok-contenido.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/tiktok-contenido.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "threads-comunidad",
@@ -98,8 +108,10 @@
         1402
       ],
       "source_filename": "a_cinematic_ultra_detailed_moody_studio_branding_5_batch_5.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/threads-comunidad.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/threads-comunidad.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/threads-comunidad.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/threads-comunidad.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "linkedin-corporativo",
@@ -114,8 +126,10 @@
         627
       ],
       "source_filename": "a_wide_cinematic_ultra_detailed_studio_office_int_4_batch_4.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/linkedin-corporativo.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/linkedin-corporativo.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/linkedin-corporativo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/linkedin-corporativo.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "puerto-rico-al-mundo",
@@ -130,8 +144,10 @@
         724
       ],
       "source_filename": "Montana Music Production: Puerto Rico to the World_2.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/puerto-rico-al-mundo.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/puerto-rico-al-mundo.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/puerto-rico-al-mundo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/puerto-rico-al-mundo.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "coleccion-multiplataforma",
@@ -146,8 +162,10 @@
         887
       ],
       "source_filename": "montana_music_production_banner_collection.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/coleccion-multiplataforma.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/coleccion-multiplataforma.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/coleccion-multiplataforma.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/coleccion-multiplataforma.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "modelo-editorial-demo",
@@ -162,8 +180,10 @@
         793
       ],
       "source_filename": "montana_music_production_social_media_mosaic.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/modelo-editorial-demo.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/modelo-editorial-demo.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/modelo-editorial-demo.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/modelo-editorial-demo.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     },
     {
       "slug": "evolucion-cine",
@@ -178,8 +198,12 @@
         941
       ],
       "source_filename": "La Evolución: De Freddy a Einstein.webp",
-      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/assets/evolucion-cine.webp",
-      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/evolucion-cine.webp"
+      "full": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/evolucion-cine.webp",
+      "preview": "https://headless-jwfegdajqac-montanaspoduction-1411.wix-site-host.com/previews/evolucion-cine.webp",
+      "watermarked": true,
+      "clean_delivery": "manual_after_verified_payment"
     }
-  ]
+  ],
+  "public_previews_watermarked": true,
+  "original_files_public": false
 }
